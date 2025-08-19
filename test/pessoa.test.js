@@ -1,6 +1,6 @@
 const Pessoa = require('../src/pessoa');
 
-describe('Testes da classe Pessoa', () => {
+describe('Testes da classe Pessoa!', () => {
     let pessoa;
 
     beforeEach(() => {
