@@ -74,8 +74,11 @@ describe('Utilitários', () => {
 
     test('Deve gerar um número aleatório', () => {
         const num = utils.gerarNumeroAleatorio(10);
+        const num2 = utils.gerarNumeroAleatorio(84);
         expect(num).toBeGreaterThanOrEqual(0);
         expect(num).toBeLessThan(10);
+        expect(num2).toBeGreaterThanOrEqual(0);
+        expect(num2).toBeLessThan(84);
     });
 
     test('Deve verificar se o valor é um número', () => {

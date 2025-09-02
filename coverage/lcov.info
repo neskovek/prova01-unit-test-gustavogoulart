@@ -414,7 +414,7 @@ FNDA:1,(anonymous_11)
 FNDA:1,(anonymous_12)
 FNDA:1,(anonymous_13)
 FNDA:1,(anonymous_14)
-FNDA:1,(anonymous_15)
+FNDA:2,(anonymous_15)
 FNDA:4,(anonymous_16)
 FNDA:1,(anonymous_17)
 FNDA:1,(anonymous_18)
@@ -441,7 +441,7 @@ DA:48,1
 DA:52,1
 DA:56,1
 DA:60,1
-DA:64,1
+DA:64,2
 DA:68,4
 DA:72,1
 DA:76,1
