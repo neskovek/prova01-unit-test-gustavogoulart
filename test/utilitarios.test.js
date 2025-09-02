@@ -73,6 +73,7 @@ describe('Utilitários', () => {
     });
 
     test('Deve gerar um número aleatório', () => {
+        const num = utils.gerarNumeroAleatorio(10);
         expect(num).toBeGreaterThanOrEqual(0);
         expect(num).toBeLessThan(10);
     });
